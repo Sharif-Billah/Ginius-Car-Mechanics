@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "WHEEL ALIGNMENT",
+        "price": "200",
+        "description": "Lorem ipsusm dolor sit amet, consuctetu redipisi cing elitBeatae autem aperiam nequ quaera molestia voluptatibus harum anetipsa.",
+        "img": "https://i.ibb.co/1M8Bg9c/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "BRAKE REPARING",
+        "price": "160",
+        "description": "Lorem ipsusm dolor sit amet, consuctetu redipisi cing elitBeatae autem aperiam nequ quaera molestia voluptatibus harum anetipsa.",
+        "img": "https://i.ibb.co/r4G3h8t/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "WASH AND GLASSING",
+        "price": "150",
+        "description": "Lorem ipsusm dolor sit amet, consuctetu redipisi cing elitBeatae autem aperiam nequ quaera molestia voluptatibus harum anetipsa.",
+        "img": "https://i.ibb.co/LZszx9L/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "TIRE CHANGING",
+        "price": "180",
+        "description": "Lorem ipsusm dolor sit amet, consuctetu redipisi cing elitBeatae autem aperiam nequ quaera molestia voluptatibus harum anetipsa.",
+        "img": "https://i.ibb.co/yXMd3D8/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "ENGINE DIAGNOSTIC",
+        "price": "200",
+        "description": "Lorem ipsusm dolor sit amet, consuctetu redipisi cing elitBeatae autem aperiam nequ quaera molestia voluptatibus harum anetipsa.",
+        "img": "https://i.ibb.co/hHSzcJN/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "COMPLETE ANALYSIS",
+        "price": "220",
+        "description": "Lorem ipsusm dolor sit amet, consuctetu redipisi cing elitBeatae autem aperiam nequ quaera molestia voluptatibus harum anetipsa.",
+        "img": "https://i.ibb.co/dDhXs7L/6.jpg"
+    }
+]
